@@ -7,9 +7,7 @@ import 'UI/HomeScreen/HomeScreen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  if(kDebugMode){
-    print("testing");
-  }
+
 
   runApp(MyApp());
 }
